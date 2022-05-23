@@ -59,7 +59,7 @@ function Login() {
         <h1>
           <FaSignInAlt /> Login
         </h1>
-        <p>Login to start setting goals.</p>
+        <p>Login to set goals.</p>
       </section>
 
       <section className='form'>
